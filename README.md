@@ -6,6 +6,7 @@ Nice people from the Computer History Museum tried it on the original PDP-1 mach
 
 This is officially the oldest platform I ever wrote anything for! :)
 
-Video is [here](https://www.youtube.com/watch?v=qD-4vVEOcZo).
+[![Watch the video](images/pong.gif)](https://www.youtube.com/watch?v=qD-4vVEOcZo)
+
 
 
