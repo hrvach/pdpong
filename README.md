@@ -8,5 +8,6 @@ This is officially the oldest platform I ever wrote anything for! :)
 
 [![Watch the video](images/pong.gif)](https://www.youtube.com/watch?v=qD-4vVEOcZo)
 
+Click on the video to see it in detail!
 
 
